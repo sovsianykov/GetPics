@@ -1,19 +1,19 @@
 {
-  "posts": [
+  "posts" : [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Post One",
+      "body" : "This is Post one "
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "title": "Post Two",
+      "body" : "This is Post two "
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body" : "This is Post three "
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
